@@ -1,4 +1,8 @@
 
+# winmine-java
+
+模仿winmine的基于swing的java桌面应用扫雷游戏。
+
 # 环境
 
 使用Eclipse开发，JDK 1.8，只使用了swing。
